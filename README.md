@@ -1,11 +1,4 @@
-Here’s an upgraded version of your `README.md` with:
 
-* ✅ **Badges**
-* 🖼️ **Image preview**
-* ⚙️ **CI/CD placeholder**
-* 💡 **Optional enhancements for contributors**
-
----
 
 ````markdown
 # 🗂️ File Organizer
